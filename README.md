@@ -1,6 +1,6 @@
 # Instructoions
 1)  Create a database file
-    Write a SQL statement to create a simple table countries including columns country_id,country_name and region_id.
+    #Write a SQL statement to create a simple table countries including columns country_id,country_name and region_id.
     Insert data into the table
 
 2) Select all values from the table
